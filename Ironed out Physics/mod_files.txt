@@ -1,1 +1,4 @@
+add /Turn/raw/character/playercommon.pac
+add mod.ini
+add /Noturn/raw/character/playercommon.pac
 add mod.ini

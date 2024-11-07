@@ -1,0 +1,36 @@
+{
+    "Groups": [
+        {
+            "Name": "Main",
+            "DisplayName": "Speed Tweaks",
+            "Elements":
+            [
+                {
+                    "Name": "IncludeDir0",
+                    "DisplayName": "Action-Stage Turning",
+                    "Description": ["Choose between the Vanilla or Tighter turning in the Action-Stages"],
+                    "Type": "AirboostEnum",
+                    "MinValue": null,
+                    "MaxValue": null,
+                    "DefaultValue": "Noturn"
+                }
+            ]
+        }
+
+    ],
+    "Enums": {
+        "AirboostEnum": [
+            { 
+                "DisplayName": "Vanilla turning",
+                "Value": "Noturn",
+                "Description": ["Turning in Action-Stages remains how it is in the vanilla game"]
+             },
+             { 
+                "DisplayName": "Enhanced Turning",
+                "Value": "Turn",
+                "Description": ["Turning in Action-Stages is tighter and smoother"]
+             }
+        ]
+    },
+    "IniFile":  "mod.ini"
+}

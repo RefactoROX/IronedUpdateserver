@@ -1,7 +1,7 @@
 ## Ironed Out Physics V2.1
--Made Doom-Morph dash faster
--Reduced swing speed on Doom-Morph
--Improved drop dash
+- Made Doom-Morph dash faster
+- Reduced swing speed on Doom-Morph
+- Improved drop dash
 
 
 ## Ironed Out Physics V2.0
